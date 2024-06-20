@@ -27,7 +27,7 @@ Example query:
 
 `List all sellers, and a count of how many products they have:`
 
-![Query](/images/query.png)
+![Query](/images/queryexample.png)
 
 ### Etsy 2 Sellers table:
 
