@@ -1,6 +1,6 @@
 # TechNative PostgreSQL Database Design Challenge
 
-Split into two distinct parts, this project involved designing two unique databases for:
+This project involved designing two unique databases for:
 
 - The Guardian 2 (a blog databse storing information on authors and blog posts)
 - Etsy 2 (an e-commerce store database storing information on sellers and products)
@@ -16,3 +16,9 @@ Part one and part two of this project required:
 - Defining relationships (one to many, many to many)
 - Inserting sample data
 - Querying information using SQL
+
+## Screenshots
+
+Etsy 2 Products table:
+
+![Etsy2](images/etsy2.png)
