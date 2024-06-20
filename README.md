@@ -1,1 +1,1 @@
-# db-design-challenge
+# TechNative Database Design Challenge
