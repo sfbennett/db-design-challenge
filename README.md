@@ -19,6 +19,20 @@ Part one and part two of this project required:
 
 ## Screenshots
 
-Etsy 2 Products table:
+# Guardian 2 authors table:
 
-![Etsy2](images/etsy2.png)
+![Guardian2Authors](/images/guardian2authors.png)
+
+Example query:
+
+`List all sellers, and a count of how many products they have:`
+
+![Query](/images/query.png)
+
+# Etsy 2 Sellers table:
+
+![Etsy2Sellers](/images/etsysellers.png)
+
+# Etsy 2 Products table:
+
+![Etsy2Products](images/etsy2.png)
