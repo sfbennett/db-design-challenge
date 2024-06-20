@@ -19,7 +19,7 @@ Part one and part two of this project required:
 
 ## Screenshots
 
-# Guardian 2 authors table:
+### Guardian 2 authors table:
 
 ![Guardian2Authors](/images/guardian2authors.png)
 
@@ -29,10 +29,10 @@ Example query:
 
 ![Query](/images/query.png)
 
-# Etsy 2 Sellers table:
+### Etsy 2 Sellers table:
 
 ![Etsy2Sellers](/images/etsysellers.png)
 
-# Etsy 2 Products table:
+### Etsy 2 Products table:
 
 ![Etsy2Products](images/etsy2.png)
