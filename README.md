@@ -25,7 +25,7 @@ Part one and part two of this project required:
 
 Example query:
 
-`List all sellers, and a count of how many products they have:`
+`List all blog post titles, with the author's name:`
 
 ![Query](/images/queryexample.png)
 
